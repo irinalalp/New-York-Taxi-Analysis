@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#remove Ds_store and CSV
+.DS_Store
+*.csv
